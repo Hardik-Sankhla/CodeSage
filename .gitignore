@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> dd3aa35b0d710474d8c03f243d69aaeff8146278
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -173,6 +176,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
 =======
 venv/
 __pycache__/
@@ -182,3 +186,5 @@ __pycache__/
 *.pyd
 *.log
 >>>>>>> 39ed4f5 (Initial commit: CodeSage - AI-Powered Code Review Assistant)
+=======
+>>>>>>> dd3aa35b0d710474d8c03f243d69aaeff8146278
