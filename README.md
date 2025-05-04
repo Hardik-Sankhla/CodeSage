@@ -147,7 +147,8 @@ code-review-deepseek/
 
 ## 🖼️ Screenshots
 
-*(Add input/output screenshots here.)*
+![Code Review Demo](https://raw.githubusercontent.com/Hardik-Sankhla/CodeSage/main/docs/Demo-CodeReview.png)
+
 
 ---
 
