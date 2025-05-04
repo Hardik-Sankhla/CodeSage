@@ -147,7 +147,13 @@ code-review-deepseek/
 
 ## 🖼️ Screenshots
 
-![Code Review Demo](https://raw.githubusercontent.com/Hardik-Sankhla/CodeSage/main/docs/Demo-CodeReview.png)
+<p align="center">
+  <img src="https://github.com/Hardik-Sankhla/CodeSage/blob/main/docs/Demo-CodeReview.png" alt="Code Review Demo" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Hardik-Sankhla/CodeSage/blob/main/docs/LongCode-Reviewdemo.png" alt="Long Code Review Demo" />
+</p>
 
 
 ---
